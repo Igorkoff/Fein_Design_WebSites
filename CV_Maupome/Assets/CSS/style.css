@@ -1,0 +1,42 @@
+/* Pink */
+
+.rose {
+    background-color: #F2D8DA;
+}
+
+/* Green */
+
+.green {
+    background-color: #798C7C;
+    color: whitesmoke;
+}
+
+/* Custom Line Height Class */
+  
+.text-height-0 {
+    line-height: 0;
+}
+
+.text-height-1 {
+    line-height: 1rem;
+}
+
+.text-height-2 {
+    line-height: 1.5rem;
+}
+
+.text-height-3 {
+    line-height: 2rem;
+}
+
+.text-height-4 {
+    line-height: 3rem;
+}
+
+.text-height-5 {
+    line-height: 4rem;
+}
+
+.text-height-auto {
+    line-height: auto;
+}
