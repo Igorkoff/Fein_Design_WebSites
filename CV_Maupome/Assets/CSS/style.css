@@ -40,3 +40,16 @@
 .text-height-auto {
     line-height: auto;
 }
+
+.photos{
+	z-index:-1;
+}
+
+.line_scroll_indicator{
+	background:#BFF2E8;
+	height:5px;
+	width:0%;
+	position:fixed;
+	top:0px;
+	z-index: 1;
+}
